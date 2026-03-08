@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-03-08T12:53:36.146Z",
+  "skills": [
+    {
+      "skill_id": "build-commit",
+      "publisher": "author",
+      "name": "build-commit",
+      "channels": {
+        "stable": "0.0.0",
+        "beta": "0.1.0-rc.20260308.1"
+      },
+      "updated_at": "2026-03-08T12:53:36.146Z"
+    }
+  ]
+}
